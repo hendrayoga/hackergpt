@@ -1,3 +1,5 @@
+# Contributing Guidelines
+
 **Welcome to HackerGPT!**
 
 We appreciate your interest in contributing to our project.
